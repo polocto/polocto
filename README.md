@@ -68,6 +68,6 @@ I am an IT engeneering student at ECE Paris Lyon.
 [![Mail](/img/social/mail.png)](mailto:paul.sade@live.fr)
 
 ## ❤️ Views and Followers
-
+---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=polocto)
 [![Followers](https://img.shields.io/github/followers/polocto?label=Followers&style=social)](https://github.com/polocto?tab=followers)
