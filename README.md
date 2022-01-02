@@ -66,6 +66,7 @@ I am an IT engeneering student at ECE Paris Lyon.
 [![Github](/img/github.png)](https://github.com/polocto)
 [![Facebook](/img/social/facebook.png)](https://www.facebook.com/profile.php?id=100008280398252)
 [![Mail](/img/social/mail.png)](mailto:paul.sade@live.fr)
+[![Telegram](/img/social/telegram.png)](https://t.me/polocto)
 
 ## ❤️ Views and Followers
 ---
