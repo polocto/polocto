@@ -16,8 +16,8 @@
      /\  \         /:\  \               /\  \          /\  \          /\__\          /\__\
      \:\  \   /\  /: :|  |             /::\  \        /::\  \        /:/  /         /:/  /
       \:\  \ | / /:/|:|  |            /:/\:\  \      /:/\:\  \      /:/  /         /:/  /
-  __  /::\  \\/ /:/ |:|__|___        /::\~\:\  \    /::\~\:\  \    /:/  /  ___    /:/  /
- /\ \/:/\:\__\ /:/ /|:_:_:\__\      /:/\:\ \:\__\  /:/\:\ \:\__\  /:/__/  /\__\  /:/__/
+  ___ /::\  \\/ /:/ |:|__|___        /::\~\:\  \    /::\~\:\  \    /:/  /  ___    /:/  /
+ /\  /:/\:\__\ /:/ /|:_:_:\__\      /:/\:\ \:\__\  /:/\:\ \:\__\  /:/__/  /\__\  /:/__/
  \:\/:/ /\/__/ \/_/     /:/  /      \/__\:\/:/  /  \/__\:\/:/  /  \:\  \ /:/  /  \:\  \
   \::/ /               /:/  /            \::/  /        \::/  /    \:\  /:/  /    \:\  \
    \:\  \             /:/  /              \/__/         /:/  /      \:\/:/  /      \:\  \
@@ -41,6 +41,7 @@ I am an IT engeneering student at ECE Paris Lyon.
 ![HTML](/img/languages&tools/html-5.png) 
 ![CSS](/img/languages&tools/css3.png) 
 ![JavaScript](/img/languages&tools/javascript.png)
+![Python](/img/languages&tools/python.png)
 ![YAML](/img/languages&tools/yaml.png)
 ![NodeJS](/img/languages&tools/nodejs.png) 
 ![Linux](/img/languages&tools/linux.png) 
