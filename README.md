@@ -54,11 +54,8 @@ I am an IT engeneering student at ECE Paris Lyon.
 
 ## 📊 My Github Stats
 ---
-![Paul Sade's Github Stats](https://github-readme-stats.vercel.app/api?username=polocto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polocto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=polocto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
+![Paul Sade's Github Stats](https://github.com/polocto/github-stats/blob/master/generated/overview.svg)
+![Top Langs](https://github.com/polocto/github-stats/blob/master/generated/languages.svg)
 
 ## Connect with me
 ---
