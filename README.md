@@ -28,7 +28,7 @@ I am an IT engeneering student at ECE Paris Lyon.
 ```
 ## 🙋‍♂️ About Me
 ---
-- 💻‍ I'm currently in informatics systems, cyber-security and big data major in [my school](https://www.ece.fr/). I am taught about operating system, data base, operational development, computer networks and web technologies.
+- 💻‍ I'm currently in **informatics systems**, **cyber-security** and **big data** major in [my school](https://www.ece.fr/). I am taught about operating system, data base, operational development, computer networks and web technologies.
 - 🔭 You will find in my [repositories](https://github.com/polocto?tab=repositories) some of my school projects 
 - ⚡ Fun fact: I made an exchange semester at [Ajou University](https://www.ajou.ac.kr/en/index.do) in South Korea.
 - [Click here](/info) to see more
