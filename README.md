@@ -31,6 +31,7 @@ I am an IT engeneering student at ECE Paris Lyon.
 - 💻‍ I'm currently in **informatics systems**, **cyber-security** and **big data** major in [my school](https://www.ece.fr/). I am taught about operating system, data base, operational development, computer networks and web technologies.
 - 🔭 You will find in my [repositories](https://github.com/polocto?tab=repositories) some of my school projects 
 - ⚡ Fun fact: I made an exchange semester at [Ajou University](https://www.ajou.ac.kr/en/index.do) in South Korea.
+- 🎓 Studied in Montreal (Canada), at ETS (École de Technologie Supérieure).
 - [Click here](/info) to see more
 
 ## 🤖 Languages & Tools
@@ -51,11 +52,6 @@ I am an IT engeneering student at ECE Paris Lyon.
 ![K8s](/img/languages&tools/kubernetes.png)
 ![Redis](/img/languages&tools/redis.png)
 ![Github](/img/github.png)
-
-## 📊 My Github Stats
----
-![Paul Sade's Github Stats](https://github.com/polocto/github-stats/blob/master/generated/overview.svg)
-![Top Langs](https://github.com/polocto/github-stats/blob/master/generated/languages.svg)
 
 ## Connect with me
 ---
