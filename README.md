@@ -29,29 +29,39 @@ I am an IT engeneering student at ECE Paris Lyon.
 ## 🙋‍♂️ About Me
 ---
 - 💻‍ I'm currently in **informatics systems**, **cyber-security** and **big data** major in [my school](https://www.ece.fr/). I am taught about operating system, data base, operational development, computer networks and web technologies.
-- 🔭 You will find in my [repositories](https://github.com/polocto?tab=repositories) some of my school projects 
+- 🔭 You will find in my [repositories](https://github.com/polocto?tab=repositories) some are school projects 
 - ⚡ Fun fact: I made an exchange semester at [Ajou University](https://www.ajou.ac.kr/en/index.do) in South Korea.
 - 🎓 Studied in Montreal (Canada), at ETS (École de Technologie Supérieure).
-- [Click here](/info) to see more
 
 ## 🤖 Languages & Tools
 ---
 ![C](/img/languages&tools/c-programming.png)
 ![C++](/img/languages&tools/c++.png) 
+![Go](/img/languages&tools/go.png)
 ![Java](/img/languages&tools/java.png) 
-![HTML](/img/languages&tools/html-5.png) 
-![CSS](/img/languages&tools/css3.png) 
 ![JavaScript](/img/languages&tools/javascript.png)
 ![Python](/img/languages&tools/python.png)
-![YAML](/img/languages&tools/yaml.png)
 ![NodeJS](/img/languages&tools/nodejs.png) 
+
+![Redis](/img/languages&tools/redis.png)
+![MongoDB](/img/languages&tools/mongodb.png)
+![MySQL](/img/languages&tools/mysql.png)
+
 ![Linux](/img/languages&tools/linux.png) 
+![MacOS](/img/languages&tools/apple.png)
 ![Windows](/img/languages&tools/windows-11.png)
+
 ![Vagrant](/img/languages&tools/vagrant.png) 
+![VMware](/img/languages&tools/vmware.png)
+
 ![Docker](/img/languages&tools/docker.png)
 ![K8s](/img/languages&tools/kubernetes.png)
-![Redis](/img/languages&tools/redis.png)
+
+![Ansible](/img/languages&tools/ansible.png)
+![Terraform](/img/languages&tools/terraform.png)
+
 ![Github](/img/github.png)
+![Gitlab](/img/gitlab.png)
 
 ## Connect with me
 ---
