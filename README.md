@@ -51,12 +51,11 @@ I am an IT engeneering student at ECE Paris Lyon.
 ![MacOS](/img/languages&tools/apple.png)
 ![Windows](/img/languages&tools/windows-11.png)
 
-![Vagrant](/img/languages&tools/vagrant.png) 
 ![VMware](/img/languages&tools/vmware.png)
-
 ![Docker](/img/languages&tools/docker.png)
 ![K8s](/img/languages&tools/kubernetes.png)
 
+![Vagrant](/img/languages&tools/vagrant.png) 
 ![Ansible](/img/languages&tools/ansible.png)
 ![Terraform](/img/languages&tools/terraform.png)
 
